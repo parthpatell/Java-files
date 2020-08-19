@@ -17,6 +17,7 @@ public class HIorLow {
 		//The statements for the output and conditions.
 		if(int_random == userin) {
 			System.out.println("Well done you got lucky");
+			return;
 			
 		}
 		else if (int_random > userin){
