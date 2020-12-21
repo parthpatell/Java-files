@@ -27,8 +27,9 @@ public class HIorLow {
 		}
 		else if (int_random < userin){
 			System.out.println("Try a smaller number");
-		//Let see if this comment gets added using eclipse to git	
 		
+			//Let see if this comment gets added using eclipse to git	
+		//Checking if the pull works in eclipse.
 		}
 	}
 	}
