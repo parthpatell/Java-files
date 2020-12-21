@@ -16,7 +16,7 @@ public class HIorLow {
 		int userin = myObj.nextInt();
 		//The statements for the output and conditions.
 		if(int_random == userin) {
-			System.out.println("Well done you got lucky");
+			System.out.println("You are too good at this game!!");
 			return;
 			
 		}
